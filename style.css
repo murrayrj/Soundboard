@@ -6,7 +6,7 @@ body {
 button  {
   width: 200px;
   height: 200px;
-  margin: 3.6%;
+  margin: 3.5%;
   border: solid 2px #00A6EC;
 }
 
@@ -17,7 +17,7 @@ button:hover {
 }
 
 .row {
-  margin-left: 34.5%;
+  margin-left: 33%;
 }
 
 #funky {
