@@ -1,0 +1,53 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+button  {
+  width: 200px;
+  height: 200px;
+  margin: 3.6%;
+  border: solid 2px #00A6EC;
+}
+
+button:hover {
+  -webkit-transform: scale(1.5, 1.5);
+  -moz-transform: scale(1.5, 1.5);
+  transform: scale(1.5, 1.5);
+}
+
+.row {
+  margin-left: 34.5%;
+}
+
+#funky {
+  background-color: #D53228;
+}
+
+#oohh {
+  background-color: #DC500F;
+}
+
+#uuhh {
+  background-color: #FFB127;
+}
+
+#over {
+  background-color: #FD7400;
+}
+#loveYou{
+  background-color: #FFE11A;
+}
+#whatFor{
+  background-color: #BEDB39; 
+}
+#piano{
+  background-color: #225378;
+}
+#chordBeat{
+  background-color: #1695A3;
+}
+#chillBeat{
+  background-color: #ACF0F2;
+}
+
